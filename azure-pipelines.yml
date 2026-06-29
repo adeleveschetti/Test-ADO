@@ -7,5 +7,5 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-  - script: echo "Hello World"
+  - script: echo "Hello World 2"
     displayName: "Print Hello World"
